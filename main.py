@@ -21,4 +21,6 @@ if __name__ == '__main__':
     c = a * b
     print("result is: " + str(c))
 
+    print("Calculation added")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
