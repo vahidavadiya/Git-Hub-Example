@@ -16,4 +16,9 @@ if __name__ == '__main__':
 
     print("Hello from local pc")
 
+    a = 2
+    b = 5
+    c = a * b
+    print("result is: " + str(c))
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
